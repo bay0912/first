@@ -1,3 +1,7 @@
+/*
+ * It's the main window
+ */
+
 package com.bxj.tank;
 
 import java.awt.Color;
