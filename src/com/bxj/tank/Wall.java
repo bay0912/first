@@ -1,4 +1,4 @@
-
+// The wall can block the bullet shot by enemy,but not 'I'.
 package com.bxj.tank;
 
 
