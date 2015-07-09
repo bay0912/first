@@ -1,3 +1,7 @@
+/*
+ *how can I to define u? 
+ * */
+
 package com.bxj.tank;
 
 import java.awt.Color;
